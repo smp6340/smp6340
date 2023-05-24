@@ -23,6 +23,9 @@
   
 ### Top Language
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smp6340&langs_count=5&layout=compact&theme=dark)](https://github.com/smp6340/smp6340)
+  
+### Github
+[![dohanol_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=smp6340)](https://github.com/smp6340/github-readme-stats)
 
 <!---
 smp6340/smp6340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
